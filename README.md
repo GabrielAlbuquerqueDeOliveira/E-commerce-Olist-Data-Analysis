@@ -80,8 +80,8 @@ Alguns gráficos presentes na análise:
 
 Desenvolvido por **Gabriel Albuquerque de Oliveira**  
 🔗 [GitHub](https://github.com/GabrielAlbuquerqueDeOliveira)  
-📧 gabrielalbuquerquedeoliveira@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/gabrielalbuquerquedeoliveira)
+📧 gabriel.ooo@hotmail.com
+💼 [LinkedIn](www.linkedin.com/in/gabriel-albuquerque-oliveira98)
 
 ---
 
