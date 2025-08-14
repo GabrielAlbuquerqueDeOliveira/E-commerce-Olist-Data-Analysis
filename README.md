@@ -9,8 +9,6 @@ Este projeto realiza uma análise exploratória detalhada com visualizações so
 | Caminho                          | Descrição                                                                 |
 |----------------------------------|---------------------------------------------------------------------------|
 | [`Analise_OList.ipynb`](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/blob/main/Analise_OList.ipynb) | Notebook principal com a análise dos dados                                |
-| [`data/`](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/tree/main/data)         | Pasta contendo os arquivos CSV do dataset Olist                           |
-| [`olist_*.csv`](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/tree/main/data)  | Arquivos do dataset, como clientes, pedidos, pagamentos, produtos, etc.   |
 
 ---
 
