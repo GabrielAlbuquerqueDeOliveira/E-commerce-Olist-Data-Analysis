@@ -8,7 +8,7 @@ Este projeto realiza uma análise exploratória detalhada com visualizações so
 
 | Caminho                          | Descrição                                                                 |
 |----------------------------------|---------------------------------------------------------------------------|
-| [`Analise_OList.ipynb`](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/blob/main/Analise_OList.ipynb) | Notebook principal com a análise dos dados                                |
+| [`Analise_OList.ipynb`](https://github.com/GabrielAlbuquerqueDeOliveira/E-commerce-Olist-Data-Analysis/blob/main/Analise_OList_original.ipynb) | Notebook principal com a análise dos dados                                |
 
 ---
 
